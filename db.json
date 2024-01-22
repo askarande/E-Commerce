@@ -1,0 +1,28 @@
+{
+  "seller": [
+    {
+      "name": "aditya",
+      "email": "aditya38@gmail.com",
+      "password": "aditya38",
+      "id": 1
+    },
+    {
+      "name": "shree",
+      "email": "shree38@gmail.com",
+      "password": "shree38",
+      "id": 2
+    },
+    {
+      "uname": "ranjeet",
+      "upass": "ranjeet@123",
+      "uemail": "12345",
+      "id": 3
+    },
+    {
+      "uname": "pradeep",
+      "upass": "12345",
+      "uemail": "pradeepkadam@gmail.com",
+      "id": 4
+    }
+  ]
+}
